@@ -1,6 +1,7 @@
 <!-- [![MasterHead](https://camo.githubusercontent.com/854214eb45c6b3d67df8186fa4c88260619a7ba81662a0b4306bc64698be3fd7/68747470733a2f2f692e6962622e636f2f734a4a427435632f6d65726e2d737461636b2e6a7067)] -->
 <h1 align="center">Hi 👋, I'm Prasad Karde</h1>
 <h3 align="center">I'm a passionate Full Stack Web developer skilled in MERN stack who always ready for learning new things.</h3>
+
 <img src="https://i0.wp.com/physicsgurukul.com/wp-content/uploads/2019/02/character-1.gif?resize=326%2C245&ssl=1" width="400px" align="right"/>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prasad05&label=Profile%20views&color=0e75b6&style=flat" alt="prasad05" /> </p> -->
