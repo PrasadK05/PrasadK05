@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I'm Prasad Karde</h1>
 <h3 align="center">Aspiring Full Stack Web developer</h3>
 
@@ -24,7 +25,7 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 
 
-## My Skill Set  
+## :hammer_and_wrench: My Skill Set  
 <table width="100%"><tr><td valign="top" width="50%">
 
 
@@ -71,6 +72,7 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
+### :fire: My Stats :
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadK05&show_icons=true&count_private=true)  
 
 <br/>
