@@ -15,12 +15,15 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 - 📄 [Resume](https://drive.google.com/file/d/1fj4aTBunY4c8LKKoP95D6AwMRvsPtORu/view?usp=sharing)
 
+- 💼 [Portfolio]()
+
 
 
 <br/>
 
+### Conntect Me !!
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30' color="blue">](https://github.com/PrasadK05)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prasad-karde//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30'>](https://prasadk05.github.io/)  
+[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/prasad-karde//)   
 
 
 
