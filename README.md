@@ -21,7 +21,7 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
-### Conntect Me !!
+### Connect Me !!
 
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/prasad-karde/)   
 
