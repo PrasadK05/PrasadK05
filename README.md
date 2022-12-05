@@ -80,7 +80,7 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=PrasadK05)  
+
 
 <br/>
 
