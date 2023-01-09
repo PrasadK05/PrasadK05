@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prasad Karde</h1>
-<h3 align="center">Aspiring Full Stack Web developer</h3>
+<h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 
 Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.
