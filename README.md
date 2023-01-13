@@ -23,7 +23,7 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 ### Connect Me !!
 
-[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/prasad-karde/)   
+[<img src='https://cdn.iconscout.com/icon/free/png-256/linkedin-187-675833.png?w=128&f=avif' alt='linkedin' height='30'>](https://www.linkedin.com/in/prasad-karde/)   
 
 
 
@@ -67,16 +67,16 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=PrasadK05)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=PrasadK05)
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PrasadK05)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=PrasadK05&hide_border=true&theme=react&hide_border=true&bg_color=white&text_color=black&title_color=blue.400)
 
 <br/>
 
 ### :fire: My Stats :
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=PrasadK05&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=PrasadK05&hide_border=true&theme=react&hide_border=true&bg_color=white&text_color=black&show_icons=true&title_color=blue.400&icon_color=blue.400)  
 
 <br/>
 
