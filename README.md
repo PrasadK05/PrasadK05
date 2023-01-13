@@ -88,7 +88,7 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=PrasadK05)  
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PrasadK05)](https://git.io/streak-stats)
 
 
 <br/>
