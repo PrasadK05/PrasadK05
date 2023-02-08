@@ -67,7 +67,8 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=PrasadK05)
+<div width="100%" margine="auto"><img src="https://github-profile-trophy.vercel.app/?username=PrasadK05" alt="error" width="100%"></div>
+
 
 <br/>
 
