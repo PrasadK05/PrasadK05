@@ -95,8 +95,4 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
-![Profile views](https://gpvc.arturio.dev/PrasadK05)  
-
-
-
-
+![Profile views](https://gpvc.arturio.dev/PrasadK05)
