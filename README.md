@@ -86,7 +86,7 @@ Motivated and innovative aspiring full-stack web developer with hands-on experie
 
 <br/>
 
-![GitHub metrics](https://metrics.lecoq.io/PrasadK05)  
+<!-- ![GitHub metrics](https://metrics.lecoq.io/PrasadK05) -->
 
 <br/>
 
