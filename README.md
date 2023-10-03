@@ -3,13 +3,13 @@
 <h3 align="center">Aspiring Full Stack Web Developer</h3>
 
 
-Motivated and innovative aspiring full-stack web developer with hands-on experience in building websites with MERN stack and various web technologies including HTML, CSS, and JS. Curious to learn about emerging web technologies. Looking forward to making a significant contribution to an organization through dedicated effort.
+Experienced Full Stack Developer with a proven track record of delivering scalable web applications. Expertise in frontend and backend development, along with a strong focus on user experience. Ready to contribute to innovative projects and drive results.
 
 <img src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="300" align="right">
 
 - 🔭 I’m currently in **Nashik Maharashtra India**
 
-- 🌱 I’m currently learning **React JS, Node JS, MongoDB, Express.**
+- 🌱 I’m currently learning **C3 .net7 Dapper, Contrib, MSSQL**
 
 - 📫 How to reach me **kardeprasad1996@gmail.com**
 
