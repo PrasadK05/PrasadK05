@@ -9,7 +9,7 @@ Experienced Full Stack Developer with a proven track record of delivering scalab
 
 - 🔭 I’m currently in **Nashik Maharashtra India**
 
-- 🌱 I’m currently learning **C3 .net7 Dapper, Contrib, MSSQL**
+- 🌱 I’m currently learning **C# .net7 Dapper, Contrib, MSSQL**
 
 - 📫 How to reach me **kardeprasad1996@gmail.com**
 
