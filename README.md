@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prasad Karde</h1>
-<h3 align="center">Aspiring Full Stack Web Developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 
 
 Experienced Full Stack Developer with a proven track record of delivering scalable web applications. Expertise in frontend and backend development, along with a strong focus on user experience. Ready to contribute to innovative projects and drive results.
