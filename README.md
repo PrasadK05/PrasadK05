@@ -83,8 +83,6 @@ Experienced Full Stack Developer with a proven track record of delivering scalab
 
 <br/>
 
-
-
 <br/>
 
 <!-- ![GitHub metrics](https://metrics.lecoq.io/PrasadK05) -->
