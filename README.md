@@ -5,7 +5,7 @@
 
 Experienced Full Stack Developer with a proven track record of delivering scalable web applications. Expertise in frontend and backend development, along with a strong focus on user experience. Ready to contribute to innovative projects and drive results.
 
-<img src="https://camo.githubusercontent.com/95475d0056f99f50fba3b5f027ac9fbb15d0fc422f675d445df20ccac6e70539/68747470733a2f2f63646e2e686173686e6f64652e636f6d2f7265732f686173686e6f64652f696d6167652f75706c6f61642f76313632313730353534323433372f3473685579456b32742e676966" width="300" align="right">
+<img src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="300" align="right">
 
 - 🔭 I’m currently in **Nashik Maharashtra India**
 
