@@ -90,11 +90,3 @@ Experienced Full Stack Developer with a proven track record of delivering scalab
 <br/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PrasadK05)](https://git.io/streak-stats)
-
-
-
-<br/>
-
-![Profile views](https://gpvc.arturio.dev/PrasadK05)
-
-
